@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Kicks &#8211; DRIP SHIP</title>
+	<atom:link href="/product-category/kicks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 01 Oct 2022 09:04:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">211045621</site>	<item>
+		<title>By artist &#8211; Ganesh</title>
+		<link>/product/by-artist-ganesh/</link>
+					<comments>/product/by-artist-ganesh/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 00:52:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=388</guid>
+
+					<description><![CDATA[<a href="https://www.instagram.com/chavi.jainn/"><strong>INSTAGRAM HANDLE</strong></a>]]></description>
+										<content:encoded><![CDATA[<a href="https://www.instagram.com/chavi.jainn/"><strong>INSTAGRAM HANDLE</strong></a>]]></content:encoded>
+					
+					<wfw:commentRss>/product/by-artist-ganesh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">388</post-id>	</item>
+		<item>
+		<title>By artist &#8211; anirudh</title>
+		<link>/product/by-artist-anirudh/</link>
+					<comments>/product/by-artist-anirudh/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 00:51:27 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=383</guid>
+
+					<description><![CDATA[<a href="https://www.instagram.com/chavi.jainn/"><strong>INSTAGRAM HANDLE</strong></a>]]></description>
+										<content:encoded><![CDATA[<a href="https://www.instagram.com/chavi.jainn/"><strong>INSTAGRAM HANDLE</strong></a>]]></content:encoded>
+					
+					<wfw:commentRss>/product/by-artist-anirudh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">383</post-id>	</item>
+		<item>
+		<title>By artist &#8211; Rossi</title>
+		<link>/product/by-artist-rossi/</link>
+					<comments>/product/by-artist-rossi/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 00:50:39 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=378</guid>
+
+					<description><![CDATA[<a href="/product/by-artist-rossi/" target="_blank" rel="noopener"><strong>INSTAGRAM HANDLE</strong></a>]]></description>
+										<content:encoded><![CDATA[<a href="/product/by-artist-rossi/" target="_blank" rel="noopener"><strong>INSTAGRAM HANDLE</strong></a>]]></content:encoded>
+					
+					<wfw:commentRss>/product/by-artist-rossi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">378</post-id>	</item>
+		<item>
+		<title>By Artist &#8211; thom browne</title>
+		<link>/product/by-artist-thom-browne/</link>
+					<comments>/product/by-artist-thom-browne/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 23:50:45 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=175</guid>
+
+					<description><![CDATA[<a href="https://www.instagram.com/chavi.jainn/"><strong>INSTAGRAM HANDLE</strong></a>]]></description>
+										<content:encoded><![CDATA[<a href="https://www.instagram.com/chavi.jainn/"><strong>INSTAGRAM HANDLE</strong></a>]]></content:encoded>
+					
+					<wfw:commentRss>/product/by-artist-thom-browne/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">175</post-id>	</item>
+	</channel>
+</rss>
